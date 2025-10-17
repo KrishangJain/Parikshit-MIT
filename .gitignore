@@ -11,6 +11,7 @@
 *.ilk
 *.map
 *.exp
+*.bin
 
 # Precompiled Headers
 *.gch
@@ -54,3 +55,6 @@ dkms.conf
 # STM settings
 .metadata/
 Debug/
+.settings/
+Release/
+*.launch
