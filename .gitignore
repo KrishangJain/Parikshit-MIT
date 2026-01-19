@@ -58,3 +58,6 @@ Debug/
 .settings/
 Release/
 *.launch
+
+# VS Code temporary runner files
+tempCodeRunnerFile.*
